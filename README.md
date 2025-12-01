@@ -15,10 +15,9 @@ This is a native Android weather application built with Java. It fetches real-ti
 ## Setup Instructions
 1. Clone this repository.
 2. Open the project in Android Studio.
-3. **IMPORTANT:** You must enter your own API Key.
+3. **IMPORTANT:** The API Key is already set in the code, but if needed:
    - Go to `MainActivity.java`
-   - Find the line: `String API_KEY = "YOUR_API_KEY_HERE";`
-   - Replace it with your valid key from [WeatherAPI.com](https://www.weatherapi.com).
+   - Find the line: `String API_KEY = "bbf8afe696e44fda9e0201806253011";`
 4. Run the app on an Emulator or Physical Device.
 
 ## APIs Used
